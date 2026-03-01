@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/basecamp/basecamp-cli/releases/download/v0.2.0/basecamp_0.2.0_windows_amd64.zip",
+            "bin": [
+                "basecamp.exe"
+            ],
+            "hash": "4c48fe339d888bdb4257d21499eb34b9a6759caf1014d752818419a5b6c223f5"
+        },
+        "arm64": {
+            "url": "https://github.com/basecamp/basecamp-cli/releases/download/v0.2.0/basecamp_0.2.0_windows_arm64.zip",
+            "bin": [
+                "basecamp.exe"
+            ],
+            "hash": "f88d86fb5a39ed7566f0a81bfdfba2ded44954e661ddf9de27f0d8b833094f82"
+        }
+    },
+    "homepage": "https://github.com/basecamp/basecamp-cli",
+    "license": "MIT",
+    "description": "Command-line interface for Basecamp"
+}
