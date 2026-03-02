@@ -6,14 +6,14 @@
             "bin": [
                 "basecamp.exe"
             ],
-            "hash": "95909b1c7f8cee979c8663c13a175ae2ea48bafa153a43139d3d9f5c27dc2b63"
+            "hash": "e6d726d1d4b56e2815f942df28b5cb169dcd560129b8257cea09dd9b0a81a358"
         },
         "arm64": {
             "url": "https://github.com/basecamp/basecamp-cli/releases/download/v0.2.1/basecamp_0.2.1_windows_arm64.zip",
             "bin": [
                 "basecamp.exe"
             ],
-            "hash": "c6566fc0e2a4e4228d7d523849f9e27aed5a51f3f17663d2bef10199493384ff"
+            "hash": "f8375cfbbd32062f827774ecf49a7611e7be9980adab81f4946859c89ee21f66"
         }
     },
     "homepage": "https://github.com/basecamp/basecamp-cli",
