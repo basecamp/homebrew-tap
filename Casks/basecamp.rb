@@ -14,22 +14,22 @@ cask "basecamp" do
   on_macos do
     on_intel do
       url "https://github.com/basecamp/basecamp-cli/releases/download/v#{version}/basecamp_#{version}_darwin_amd64.tar.gz"
-      sha256 "7cfe912264efc21c2caf624278065d92df164c7d3c6ab53cc24947fe377ba7e1"
+      sha256 "82f81971d8b034972b2c424867a3cd5bf32b91520f0ebaa422f6384c05eb520a"
     end
     on_arm do
       url "https://github.com/basecamp/basecamp-cli/releases/download/v#{version}/basecamp_#{version}_darwin_arm64.tar.gz"
-      sha256 "d5495b29ab84eab77762f31560c5d0941b6810ce8990a80b1d468eee1b9f47ca"
+      sha256 "314c67531897b951f5958942aea8db4c83dd30e85a290902e28f8e369b7120b0"
     end
   end
 
   on_linux do
     on_intel do
       url "https://github.com/basecamp/basecamp-cli/releases/download/v#{version}/basecamp_#{version}_linux_amd64.tar.gz"
-      sha256 "03d164a54d1b9118d38adef1acdd0311f8629ac2dc2d699a46e96548d325fc0e"
+      sha256 "68dcf69ec377f2cd01be1bed890074dfb6f254d2b4bf29beabc6c6542aea32fb"
     end
     on_arm do
       url "https://github.com/basecamp/basecamp-cli/releases/download/v#{version}/basecamp_#{version}_linux_arm64.tar.gz"
-      sha256 "dc25e757ebd2e9a26aeb20e3dffe8760671ffe007db3c21cc5a9914c8135e0e3"
+      sha256 "e968d60624ab2175b390ae7feeb531fcb1d7663b90b94ad8530cbc6871aa9935"
     end
   end
 
