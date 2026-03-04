@@ -3,7 +3,7 @@ cask "basecamp" do
   name "basecamp"
   desc "Command-line interface for Basecamp"
   homepage "https://github.com/basecamp/basecamp-cli"
-  version "0.2.2"
+  version "0.2.3"
 
   livecheck do
     skip "Auto-generated on release."
@@ -14,22 +14,22 @@ cask "basecamp" do
   on_macos do
     on_intel do
       url "https://github.com/basecamp/basecamp-cli/releases/download/v#{version}/basecamp_#{version}_darwin_amd64.tar.gz"
-      sha256 "06fe9b9e04f973c371d3241647c7a9ee46b25d9f668fc959c264e62d99c0cf9f"
+      sha256 "5fbc14231d0d3422ea5d1e77a0d17908e8269fed05cb47136a0ecb8b78846b5f"
     end
     on_arm do
       url "https://github.com/basecamp/basecamp-cli/releases/download/v#{version}/basecamp_#{version}_darwin_arm64.tar.gz"
-      sha256 "73d763850935d296db2bae3f7a4e360db935de5e902fcf4ac92ee4c9b20ca3bf"
+      sha256 "bcc662c779598c08eeffac89186252605ba13a1754c2b0429b8c2386d3cafcd0"
     end
   end
 
   on_linux do
     on_intel do
       url "https://github.com/basecamp/basecamp-cli/releases/download/v#{version}/basecamp_#{version}_linux_amd64.tar.gz"
-      sha256 "dc27036f869feb7299546d1688251393d059269f7df6c4e53759b31e0057ee3c"
+      sha256 "ebe81f0174e79d8489f2e3f56b6125fc5e264cecd1e8f13550114a22c1176444"
     end
     on_arm do
       url "https://github.com/basecamp/basecamp-cli/releases/download/v#{version}/basecamp_#{version}_linux_arm64.tar.gz"
-      sha256 "fad14a10bdf2949ee49a85658617c35a6bd9a7c0459161aae37698f655ed68da"
+      sha256 "9ca11505d6fabc8dbf3080f98b346300fb62ebac1fb870070b5aafebd3ae8040"
     end
   end
 
