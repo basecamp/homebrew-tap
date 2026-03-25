@@ -1,19 +1,19 @@
 {
-    "version": "0.4.0",
+    "version": "0.7.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/basecamp/basecamp-cli/releases/download/v0.4.0/basecamp_0.4.0_windows_amd64.zip",
+            "url": "https://github.com/basecamp/basecamp-cli/releases/download/v0.7.0/basecamp_0.7.0_windows_amd64.zip",
             "bin": [
                 "basecamp.exe"
             ],
-            "hash": "050f7341b5d54d224533d170d2c922236fc840a76b4db75adf67de10cfa689c7"
+            "hash": "c5c1084c5aa271420c45e673f505a4f643c534fa7280622118ada36539dfda3f"
         },
         "arm64": {
-            "url": "https://github.com/basecamp/basecamp-cli/releases/download/v0.4.0/basecamp_0.4.0_windows_arm64.zip",
+            "url": "https://github.com/basecamp/basecamp-cli/releases/download/v0.7.0/basecamp_0.7.0_windows_arm64.zip",
             "bin": [
                 "basecamp.exe"
             ],
-            "hash": "4ccabd308f906185e657b3c4001d83748b4001f2131ada77472095394d086d92"
+            "hash": "f3e504920ca927f408413db973d036fb4723b5fcdc3ece0d81b8f2a1c8758ab4"
         }
     },
     "homepage": "https://github.com/basecamp/basecamp-cli",
