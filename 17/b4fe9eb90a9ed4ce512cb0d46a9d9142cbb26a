@@ -1,0 +1,19 @@
+README.md
+  s_a5cabb4339c617::t_00323979d47a09 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "17b4fe9eb90a9ed4ce512cb0d46a9d9142cbb26a",
+  "prompts": {},
+  "sessions": {
+    "s_a5cabb4339c617": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4bc6b3c2-64f3-4080-ace1-30e8797231b2",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Jeremy Daer <jeremy@37signals.com>"
+    }
+  }
+}
