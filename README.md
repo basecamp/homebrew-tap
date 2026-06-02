@@ -10,5 +10,5 @@ If you previously installed the CLI as `basecamp` (or hit a migration error
 referencing `/Applications/Basecamp 3.app`), reinstall the cask directly:
 
 ```bash
-brew reinstall basecamp/tap/basecamp-cli
+brew reinstall --cask basecamp/tap/basecamp-cli
 ```
