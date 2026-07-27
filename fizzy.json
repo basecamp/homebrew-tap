@@ -1,0 +1,22 @@
+{
+    "version": "4.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/basecamp/fizzy-cli/releases/download/v4.0.0/fizzy_4.0.0_windows_amd64.zip",
+            "bin": [
+                "fizzy.exe"
+            ],
+            "hash": "8f16296feb8dad380de18decbde2876b7d0f365021d633c49f19b0c2b86c11c4"
+        },
+        "arm64": {
+            "url": "https://github.com/basecamp/fizzy-cli/releases/download/v4.0.0/fizzy_4.0.0_windows_arm64.zip",
+            "bin": [
+                "fizzy.exe"
+            ],
+            "hash": "695179ebb1827f2d1abca6e0608361315bd80ca3fd6df00499cb191126731a50"
+        }
+    },
+    "homepage": "https://github.com/basecamp/fizzy-cli",
+    "license": "MIT",
+    "description": "CLI for managing Fizzy boards, cards, and tasks"
+}
