@@ -1,19 +1,19 @@
 {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/basecamp/fizzy-cli/releases/download/v4.0.0/fizzy_4.0.0_windows_amd64.zip",
+            "url": "https://github.com/basecamp/fizzy-cli/releases/download/v4.0.1/fizzy_4.0.1_windows_amd64.zip",
             "bin": [
                 "fizzy.exe"
             ],
-            "hash": "8f16296feb8dad380de18decbde2876b7d0f365021d633c49f19b0c2b86c11c4"
+            "hash": "abaf68c2a125c47e14e2c8f7d212a727775dd7135a938d97ec2fb048db657e26"
         },
         "arm64": {
-            "url": "https://github.com/basecamp/fizzy-cli/releases/download/v4.0.0/fizzy_4.0.0_windows_arm64.zip",
+            "url": "https://github.com/basecamp/fizzy-cli/releases/download/v4.0.1/fizzy_4.0.1_windows_arm64.zip",
             "bin": [
                 "fizzy.exe"
             ],
-            "hash": "695179ebb1827f2d1abca6e0608361315bd80ca3fd6df00499cb191126731a50"
+            "hash": "0f6d76f0cea4f589bef6c2e5f453f971d6e72bed9cfb0740af7ca8e8f9109999"
         }
     },
     "homepage": "https://github.com/basecamp/fizzy-cli",
