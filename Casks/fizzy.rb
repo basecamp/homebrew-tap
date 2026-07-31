@@ -3,7 +3,7 @@ cask "fizzy" do
   name "fizzy"
   desc "CLI for managing Fizzy boards, cards, and tasks"
   homepage "https://github.com/basecamp/fizzy-cli"
-  version "4.0.0"
+  version "4.0.1"
 
   livecheck do
     skip "Auto-generated on release."
@@ -17,22 +17,22 @@ cask "fizzy" do
   on_macos do
     on_intel do
       url "https://github.com/basecamp/fizzy-cli/releases/download/v#{version}/fizzy_#{version}_darwin_amd64.tar.gz"
-      sha256 "b5a734e70b16d768ba309604ea468c77dc7ca9a704e09d6946b9ae63a5b6036d"
+      sha256 "f6ac2f55c9b514bd50ef1b3f41bbcd6cf3873199b00914173b270d0ebdf6cf20"
     end
     on_arm do
       url "https://github.com/basecamp/fizzy-cli/releases/download/v#{version}/fizzy_#{version}_darwin_arm64.tar.gz"
-      sha256 "bafacd5916cd94beb0d895fa4485501881da63c48222da6df60bcf2e81f3e193"
+      sha256 "111b6bcb200b79b7bbfd075b80f0bb90541566e0d8cb12abb30b988dbba8fd64"
     end
   end
 
   on_linux do
     on_intel do
       url "https://github.com/basecamp/fizzy-cli/releases/download/v#{version}/fizzy_#{version}_linux_amd64.tar.gz"
-      sha256 "007359aeea7db7f88386d09e83d3b3603bd5139d9729da107c29416133aa94ee"
+      sha256 "8a3a6b48d6eb732a189a3b18d863a1db6497a55926fd6efa4ace92e9d0a30572"
     end
     on_arm do
       url "https://github.com/basecamp/fizzy-cli/releases/download/v#{version}/fizzy_#{version}_linux_arm64.tar.gz"
-      sha256 "0abe9cfa2a6983993e2f9b1cd57a4c1540a49b88365231e6318a244c19cd7ed5"
+      sha256 "b96a0522929b28931a68fc11c2c5b957990d10caa831629252831631bba89dde"
     end
   end
 
