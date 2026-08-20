@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/basecamp/hey-cli/releases/download/v0.1.1/hey_0.1.1_windows_amd64.zip",
+            "bin": [
+                "hey.exe"
+            ],
+            "hash": "386c2e97ac181f8456d95efe0a65f0ea7dce99d8cc7800b76d0f965e2062c659"
+        },
+        "arm64": {
+            "url": "https://github.com/basecamp/hey-cli/releases/download/v0.1.1/hey_0.1.1_windows_arm64.zip",
+            "bin": [
+                "hey.exe"
+            ],
+            "hash": "a35d6211cc8cde90472ea49c979bec500f255d9a8f11b9e837efc28e9c141a2f"
+        }
+    },
+    "homepage": "https://github.com/basecamp/hey-cli",
+    "license": "MIT",
+    "description": "Command-line interface for HEY email"
+}
