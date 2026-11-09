@@ -1,19 +1,19 @@
 {
-    "version": "1.12.0",
+    "version": "1.13.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/basecamp/hey-cli/releases/download/v1.12.0/hey_1.12.0_windows_amd64.zip",
+            "url": "https://github.com/basecamp/hey-cli/releases/download/v1.13.0/hey_1.13.0_windows_amd64.zip",
             "bin": [
                 "hey.exe"
             ],
-            "hash": "d9bbc0a395c98b18eecea2cb73c67194c9d6f7961f325eb79ff943a2ed82f781"
+            "hash": "8aa8891b98a48051440eb857ccc0a3ba39924de6a1973bba0ebac699be59816d"
         },
         "arm64": {
-            "url": "https://github.com/basecamp/hey-cli/releases/download/v1.12.0/hey_1.12.0_windows_arm64.zip",
+            "url": "https://github.com/basecamp/hey-cli/releases/download/v1.13.0/hey_1.13.0_windows_arm64.zip",
             "bin": [
                 "hey.exe"
             ],
-            "hash": "3d4ab8e5fea9b8f8be63c0f260ccb565f692716c80175bbcad17482d7aa6fea9"
+            "hash": "f91f7ade18a237aa6b9a0a4b8dd9b400f259aec5cdfcf9bb1cd123086d6c470b"
         }
     },
     "homepage": "https://github.com/basecamp/hey-cli",
